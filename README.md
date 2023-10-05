@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋  I'm Manuela / Audryapps ✨</h1>
 
-![https://github.com/audryapps](https://raw.githubusercontent.com/audryapps/audryapps/master/Banner Audry.png)
+![https://github.com/audryapps](https://raw.githubusercontent.com/audryapps/audryapps/master/Audry.png)
 
 <h3 align="center">About me!</h3>
 
