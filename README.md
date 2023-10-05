@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manuela Vargas</h1>
+<h1 align="center">Hi 👋  I'm Manuela / Audryapps ✨</h1>
 
 <h3 align="center">About me!</h3>
 
