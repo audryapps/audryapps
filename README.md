@@ -7,8 +7,6 @@
 
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=audryapps&label=Profile%20views&color=0e75b6&style=flat" alt="audryapps" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/audryapps](https://github.com/audryapps)
 
 - 📫 How to reach me **manuelavargasherrera@gmail.com**
